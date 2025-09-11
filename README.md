@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Web Developer | Final Year CS Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=React+%2F+Next.js+Developer;Node.js+%2F+GraphQL+%2F+Express+Backends;TypeScript+%7C+MongoDB+%7C+TailwindCSS;Building+clean+%26+scalable+web+apps" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=React+%7C+Next.js+Developer+%7C+Node.js;Java+%7C+Spring+Boot+%7C+GraphQL;TypeScript+%7C+MongoDB+%7C+Express+Backends;Building+clean+%26+scalable+web+apps" />
 </p>
 
 ---
@@ -19,9 +19,10 @@
 ---
 
 ### 🛠️ Tech Stack
-
+**Languages**   
+`Javascript` · `TypeScript` · `Java` · `Python` · `Dart`   
 **Frontend:**  
-`React.js` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Shadcn UI`  
+`React.js` · `Next.js` · `Tailwind CSS` · `Shadcn UI`· `SpringBoot`   
 **Backend:**  
 `Node.js` · `Express` · `GraphQL` · `REST API`  
 **Database & Storage:**  
