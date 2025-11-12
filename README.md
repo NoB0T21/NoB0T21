@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a final-year Computer Science student
-- 💻 Passionate about building full-stack web applications
+- 💻 Passionate about building full-stack applications
 - 🧠 Learning advanced backend, security, and cloud deployments
 - 📫 Reach me at **aryangawade65418@gmail.com**
 - 🔭 Currently working on a **Social Media Webapp**
