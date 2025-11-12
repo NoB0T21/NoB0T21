@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Developer | Final Year CS Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=React+%7C+Next.js+Developer+%7C+Node.js;Java+%7C+Spring+Boot+%7C+GraphQL;TypeScript+%7C+MongoDB+%7C+Express+Backends;Building+clean+%26+scalable+web+apps" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=React+%7C+Next.js+Developer+%7C+Node.js;Java+%7C+Spring+Boot+%7C+GraphQL;TypeScript+%7C+MongoDB+%7C+Express+Backends;Building+clean+%26+scalable+apps" />
 </p>
 
 ---
