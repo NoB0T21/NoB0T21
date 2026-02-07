@@ -15,7 +15,8 @@
 - 🔭 Actively building **real-world production apps**
 - 🎯 Career goal: **Software Engineer → Project Manager**
 - 📫 Reach me at **aryangawade65418@gmail.com**
-- 🌐 Portfolio coming soon…
+- 🌐 [Portfoliol](https://aryan21-nobot21-portfolio.vercel.app/)
+
 
 ---
 
