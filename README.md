@@ -31,7 +31,8 @@
 
 #### ⚙️ Backend
 `Node.js` · `Express.js` · `GraphQL (Apollo Server v4)`  
-`REST APIs` · `Hono.js` · `Spring Boot`
+`REST APIs` · `Hono.js` · `Spring Boot` · `RAG` · `LLM`  
+`TTS`· `STT`
 
 #### 🗄️ Database & Storage
 `MongoDB` · `Mongoose` · `PostgreSQL` · `Drizzle ORM`  
