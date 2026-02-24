@@ -1,46 +1,26 @@
 <h1 align="center">Hi 👋, I'm Aryan Gawade</h1>
-<h3 align="center">Software Developer | Final Year CS Student | Full Stack Engineer</h3>
+<h3 align="center">Full Stack Engineer | AI Systems Builder | Scalable Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%7C+Next.js+%7C+React;Backend+%7C+Node.js+%7C+GraphQL+%7C+Redis;Flutter+%7C+Mobile+App+Development;Building+scalable+%26+production-ready+apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Systems+Builder;Scalable+Backend+Engineer;Docker+%7C+AWS+%7C+Redis+%7C+Postgres;Next.js+%7C+React+%7C+Node.js+%7C+GraphQL;Flutter+%7C+Mobile+App+Development" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **Computer Science & Design** student (Mumbai University)
-- 💻 Passionate about **Full Stack & Backend Development**
-- 🧠 Currently learning **System Design, Backend Scalability & Security**
-- 🔭 Actively building **real-world production apps**
-- 🎯 Career goal: **Software Engineer → Project Manager**
-- 📫 Reach me at **aryangawade65418@gmail.com**
-- 🌐 [Portfoliol](https://aryan21-nobot21-portfolio.vercel.app/)
+- 🎓 B.Tech in Computer Science & Design (Mumbai University)
+- 🧠 Specialized in Backend Architecture & Scalable Systems
+- ⚡ Building production-ready full stack & AI-powered applications
+- 🔐 Strong focus on Security, Role-Based Access & System Design
+- 🎯 Career Goal: Software Engineer → Technical Lead → Project Manager
+- 🌍 Open to opportunities in Germany 🇩🇪 / Netherlands 🇳🇱
+- 📫 aryangawade65418@gmail.com
 
-
----
-
-### 🛠️ Tech Stack
-
-#### 🧑‍💻 Languages
-`JavaScript` · `TypeScript` · `Java` · `Python` · `Dart`
-
-#### 🎨 Frontend
-`React.js` · `Next.js (App Router)` · `Tailwind CSS` · `Shadcn UI`  
-`TanStack React Query` · `Apollo Client` · `Flutter`
-
-#### ⚙️ Backend
-`Node.js` · `Express.js` · `GraphQL (Apollo Server v4)`  
-`REST APIs` · `Hono.js` · `Spring Boot` · `RAG` · `LLM`  
-`TTS`· `STT`
-
-#### 🗄️ Database & Storage
-`MongoDB` · `Mongoose` · `PostgreSQL` · `Drizzle ORM`  
-`Redis` · `Supabase (DB + Storage)`
-
-#### 🚀 DevOps & Tools
-`Vercel` · `Git` · `GitHub` · `Postman`  
-`Multer` · `CI/CD` · `Rate Limiting (Redis)`  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoB0T21&theme=tokyonight" width='268'/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NoB0T21&theme=tokyonight&utcOffset=5.5" width='268'/>
+</p>
 
 ---
 
@@ -51,40 +31,77 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-- 💰 **Multi-Tenant RAG Platform (Document Q&A System)**  
-  upload Documents, Ask Question, Ai Response  
-  **Tech:** Next.js, Node.js, Ollama (LLaMA 3 for generation), Qdrant (vector database), OCR: Tesseract.js, SqueeDOCX Parsing: Mammoth, PDF Handling: Poppler (pdftoppm)
+### 🧠 Multi-Tenant RAG Platform
+AI-powered Document Q&A with strict role-based access control.  
+**Tech:** Next.js, Node.js, Ollama (LLaMA 3), Qdrant, Tesseract, Redis, Docker
 
-- 📸 **Social Media Web App**  
-  Post, like, follow, stories (24h logic), GraphQL backend  
-  **Tech:** React, Apollo Client, GraphQL, MongoDB, Nodejs   
-  🔗 https://toki-rho.vercel.app/
+---
 
-- ⚡ **ElectroBay – E-Commerce Platform**  
-  Local electronics store app with admin dashboard, orders, inventory & analytics  
-  **Tech:** Next.js 14, MongoDB, Supabase, Tailwind, Redis, Nodejs   
-  🔗 https://electrobay-liard.vercel.app
+### 📸 Toki – Social Media Platform
+GraphQL-powered real-time social network with stories system.  
+**Tech:** React, Apollo, GraphQL, MongoDB, Node.js  
+🔗 https://toki-rho.vercel.app/
 
-- 🔐 **Drive Clone (Cloud Storage App)**  
-  Secure file upload, folders, auth & animations  
-  **Tech:** React, Supabase Storage, MongoDB, Redis, Nodejs  
-  🔗 https://bytebox-snowy.vercel.app/
+---
+
+### ⚡ ElectroBay – E-Commerce Platform
+Production-ready B2C commerce platform with analytics & admin dashboard.  
+**Tech:** Next.js 14, MongoDB, Supabase, Redis, Node.js  
+🔗 https://electrobay-liard.vercel.app
+
+---
+
+### 🔐 ByteBox – Cloud Storage App
+Secure file storage with OAuth, rate limiting & caching.  
+**Tech:** React, Supabase Storage, MongoDB, Redis  
+🔗 https://bytebox-snowy.vercel.app/
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NoB0T21&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoB0T21&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NoB0T21&theme=tokyo-night&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NoB0T21&theme=tokyonight&hide_border=true)
+
+---
+
+<h2 align="center">🛠 Tech Stack & Skills</h2>
+
+<h2 align="left">💻 Frontend</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,ts,js,html,css&perline=9" />
+</p>
+
+<h2 align="left">⚙ Backend</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,bots,discordjs,ts,js,python,java&perline=9" />
+</p>
+
+<h2 align="left">🗄 Databases</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis&perline=9" />
+</p>
+
+<h2 align="left">☁ DevOps & Cloud</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,ubuntu,vercel&perline=9" />
+</p>
+
+<h2 align="left">📱 Mobile</h2>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=dart,flutter&perline=9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+</p>
+
+<h2 align="left">🤖 AI & Tools</h2>
+<p align="left">
+  <img src="https://res.cloudinary.com/dii7y71df/image/upload/v1771966280/gemini_icon-logo_brandlogos.net_aacx5-512x512_s1krhq.png" width='48' />
+  <img src="https://res.cloudinary.com/dii7y71df/image/upload/v1771966280/chatgpt_logo_square_black_gpt_ia_openai_icon_264981_vwwfs9.png" width='48' />
+  <img src="https://res.cloudinary.com/dii7y71df/image/upload/v1771966280/ollama-icon_fbymsd.png" width='48' />
+  <img src="https://skillicons.dev/icons?i=git,github,discord,godot,gmail,npm,pr,postman,vscode&perline=9" />
 </p>
 
 ---
