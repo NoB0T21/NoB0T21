@@ -99,8 +99,8 @@ Secure file storage with OAuth, rate limiting & caching.
 <h2 align="left">🤖 AI & Tools</h2>
 <p align="left">
   <img src="https://res.cloudinary.com/dii7y71df/image/upload/v1771966280/gemini_icon-logo_brandlogos.net_aacx5-512x512_s1krhq.png" width='48' />
-  <img src="https://res.cloudinary.com/dii7y71df/image/upload/v1771966280/chatgpt_logo_square_black_gpt_ia_openai_icon_264981_vwwfs9.png" width='48' />
-  <img src="https://res.cloudinary.com/dii7y71df/image/upload/v1771966280/ollama-icon_fbymsd.png" width='48' />
+  <img src="https://res.cloudinary.com/dii7y71df/image/upload/v1771966280/chatgpt_logo_square_black_gpt_ia_openai_icon_264981_vwwfs9.png" width='48' style="background:#E6E6E6; padding:6px; border-radius:10px;"/>
+  <img src="https://res.cloudinary.com/dii7y71df/image/upload/v1771966280/ollama-icon_fbymsd.png" width='48' style="background:#E6E6E6; padding:6px; border-radius:10px;"/>
   <img src="https://skillicons.dev/icons?i=git,github,discord,godot,gmail,npm,pr,postman,vscode&perline=9" />
 </p>
 
