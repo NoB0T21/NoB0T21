@@ -13,7 +13,6 @@
 - 🧠 Specialized in Backend Architecture & Scalable Systems
 - ⚡ Building production-ready full stack & AI-powered applications
 - 🔐 Strong focus on Security, Role-Based Access & System Design
-- 🎯 Career Goal: Software Engineer → Technical Lead → Project Manager
 - 🌍 Open to opportunities in Germany 🇩🇪 / Netherlands 🇳🇱
 - 📫 aryangawade65418@gmail.com
 
