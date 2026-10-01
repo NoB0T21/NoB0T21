@@ -35,27 +35,27 @@
 ### 🧠 Multi-Tenant RAG Platform
 AI-powered Document Q&A with strict role-based access control.  
 **Tech:** Next.js, Node.js, Ollama (LLaMA 3), Qdrant, Tesseract, Redis, Docker
-
+🔗 [https://github.com/NoB0T21/MyFriend](https://github.com/NoB0T21/MyFriend)
 ---
 
 ### 📸 Toki – Social Media Platform
 GraphQL-powered real-time social network with stories system.  
 **Tech:** React, Apollo, GraphQL, MongoDB, Node.js  
-🔗 https://toki-rho.vercel.app/
+🔗 [https://toki-rho.vercel.app/](https://github.com/NoB0T21/TOKI)
 
 ---
 
 ### ⚡ ElectroBay – E-Commerce Platform
 Production-ready B2C commerce platform with analytics & admin dashboard.  
 **Tech:** Next.js 14, MongoDB, Supabase, Redis, Node.js  
-🔗 https://electrobay-liard.vercel.app
+🔗 [https://electrobay-liard.vercel.app](https://github.com/NoB0T21/ElectroBay)
 
 ---
 
 ### 🔐 ByteBox – Cloud Storage App
 Secure file storage with OAuth, rate limiting & caching.  
 **Tech:** React, Supabase Storage, MongoDB, Redis  
-🔗 https://bytebox-snowy.vercel.app/
+🔗 [https://bytebox-snowy.vercel.app/](https://github.com/NoB0T21/ByteBox)
 
 ---
 
