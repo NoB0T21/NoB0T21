@@ -38,24 +38,33 @@ AI-powered Document Q&A with strict role-based access control.
 🔗 [https://github.com/NoB0T21/MyFriend](https://github.com/NoB0T21/MyFriend)
 ---
 
-### 📸 Toki – Social Media Platform
-GraphQL-powered real-time social network with stories system.  
-**Tech:** React, Apollo, GraphQL, MongoDB, Node.js  
-🔗 [https://toki-rho.vercel.app/](https://github.com/NoB0T21/TOKI)
+### ⚡ Padar – E-Commerce Platform
+Full-stack fashion e-commerce platform focused on online saree and dress shopping, with product browsing, search, cart, checkout, and order
+management.
+**Tech:** React.js, Supabase, Redis, Node.js(Fastify), Docker, BullMQ, postgresql, System Design  
+🔗 [https://padar.in/](https://padar.in/)
 
 ---
 
-### ⚡ ElectroBay – E-Commerce Platform
-Production-ready B2C commerce platform with analytics & admin dashboard.  
-**Tech:** Next.js 14, MongoDB, Supabase, Redis, Node.js  
-🔗 [https://electrobay-liard.vercel.app](https://github.com/NoB0T21/ElectroBay)
+### ⚡ UniicornMart – B2B E-Commerce Platform
+Full-stack B2B marketplace built from scratch, connecting manufacturers and wholesalers with businesses through a transaction-focused
+marketplace.
+**Tech:** React.js, Supabase, Redis, Node.js(Fastify), Docker, BullMQ, postgresql, Cashfree, System Design  
+🔗 [https://uniicornmart.com/](https://uniicornmart.com/)
+
+---
+
+### 📸 Toki – Social Media Platform
+GraphQL-powered real-time social network with stories system.  
+**Tech:** React, Apollo, GraphQL, MongoDB, Node.js  
+🔗 [https://github.com/NoB0T21/TOKI](https://github.com/NoB0T21/TOKI)
 
 ---
 
 ### 🔐 ByteBox – Cloud Storage App
 Secure file storage with OAuth, rate limiting & caching.  
 **Tech:** React, Supabase Storage, MongoDB, Redis  
-🔗 [https://bytebox-snowy.vercel.app/](https://github.com/NoB0T21/ByteBox)
+🔗 [https://github.com/NoB0T21/ByteBox](https://github.com/NoB0T21/ByteBox)
 
 ---
 
@@ -86,7 +95,7 @@ Secure file storage with OAuth, rate limiting & caching.
 
 <h2 align="left">☁ DevOps & Cloud</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,ubuntu,vercel&perline=9" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,ubuntu,verce,nginxl&perline=9" />
 </p>
 
 <h2 align="left">📱 Mobile</h2>
